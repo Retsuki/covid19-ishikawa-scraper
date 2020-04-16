@@ -22,6 +22,7 @@ tmp_contents = soup.find(id='tmp_contents')
 h1_contents = tmp_contents.find_all('h1')
 all_contents_list = h1_contents[0].find_next_siblings()
 
+
 def data_shaping(date):
     m = re.match(r'[0-9]+月[0-9]+日', date)
     m_text = m.group()
@@ -29,6 +30,7 @@ def data_shaping(date):
     datetime_data = datetime.datetime(2020, int(pos[0]), int(pos[1]))
     date = datetime_data.strftime("%Y-%m-%d")
     return date
+
 
 df = pd.DataFrame([], columns=['date', '居住地', '年代', '性別'])
 date = []
@@ -45,8 +47,9 @@ new_text_list = []
 infect_count = 0
 for i in all_contents_list:
     text = i.get_text().translate(table)
-    text2 = jaconv.z2h(text, kana=False, digit=True, ascii=True).replace(" ", "").replace(":", "").replace("\xa0", "")
-   
+    text2 = jaconv.z2h(text, kana=False, digit=True, ascii=True).replace(
+        " ", "").replace(":", "").replace("\xa0", "")
+
     if "(1)年代" in text2:
         m = re.search(r"\(1\)?年代(.+)", text2)
         text_age = m.groups()[0]
@@ -59,35 +62,35 @@ for i in all_contents_list:
         m = re.search(r"\(3\)居住地(.+)", text2)
         text_residence = (m.groups()[0])
         residence.append(text_residence)
-        
+
     if "症状・経過" in text2:
-        
+
         # 新たなlistの要素を作る
         new_text_list.append("empty")
-        
+
         # 初期設定
         if now_age == "":
             now_age = text2 + "check"
             new_text += text2
             infect_count += 1
             continue
-            
+
         # now_ageとtext2の内容が違うのであれば
         # (1)Save ever data
         # (2)Delete ever data
         # (3)Add new data
         if now_age != text2:
-            new_text_list[infect_count-1] = new_text # (1)
-            new_text = "" # (2)
-            new_text += text2 # (3)
+            new_text_list[infect_count-1] = new_text  # (1)
+            new_text = ""  # (2)
+            new_text += text2  # (3)
             infect_count += 1
             continue
-    
+
     if 0 < infect_count:
         if "(5)行動歴" in text2:
             continue
         new_text += text2
-        
+
 
 new_text_list[infect_count-1] = new_text
 
@@ -106,7 +109,7 @@ df['年代'] = age
 df['性別'] = sex
 
 patients_df = df.sort_values('date').reset_index(drop=True)
-patients_df.to_csv('./tool/downloads/patients_data/patients.csv', index=False)
+patients_df.to_csv('./src/downloads/patients_data/patients.csv', index=False)
 
 # 日付データの作成
 today = datetime.datetime.now()
@@ -130,32 +133,34 @@ for num, i in enumerate(df.iloc[0:, 0]):
     for j in c.keys():
         if j in str(i):
             df.iloc[num, 1] = c[j]
-            
+
 # csv化
-df.to_csv('./tool/downloads/each_data/{}_{}.csv'.format(this_year, this_month), index=False)
+df.to_csv('./src/downloads/each_data/{}_{}.csv'.format(this_year,
+                                                       this_month), index=False)
 
 # 各csvを連結
-csv_files = glob.glob('./tool/downloads/each_data/*.csv')
+csv_files = glob.glob('./src/downloads/each_data/*.csv')
 each_csv = []
 for i in csv_files:
     each_csv.append(pd.read_csv(i))
 df = pd.concat(each_csv).reset_index(drop=True)
 
 patients_summary_df = df.sort_values("日付").reset_index(drop=True)
-patients_summary_df.to_csv("./tool/downloads/final_data/total.csv", index=False)
+patients_summary_df.to_csv("./src/downloads/final_data/total.csv", index=False)
 
 # patientsデータの作成
 patients_df_dict = patients_df.to_dict('index')
-data1 = [ patients_df_dict.get(i) for i in range(len(patients_df_dict)) ]
+data1 = [patients_df_dict.get(i) for i in range(len(patients_df_dict))]
 
 # patients_summaryデータの作成
 patients_summary_df_dict = patients_summary_df.to_dict('index')
-data2 = [ patients_summary_df_dict.get(i) for i in range(len(patients_summary_df)) ]
+data2 = [patients_summary_df_dict.get(i)
+         for i in range(len(patients_summary_df))]
 
 # 感染者と治療中の人数と退院数データの作成
 table = soup.findAll("table")[0]
 tr = table.findAll("tr")
-with open('./tool/downloads/table_data/corona_table.csv', "w", encoding="utf-8") as file:
+with open('./src/downloads/table_data/corona_table.csv', "w", encoding="utf-8") as file:
     writer = csv.writer(file)
     for i in tr:
         row = []
@@ -163,7 +168,7 @@ with open('./tool/downloads/table_data/corona_table.csv', "w", encoding="utf-8")
             row.append(cell.get_text())
         writer.writerow(row)
 
-table_df = pd.read_csv('./tool/downloads/table_data/corona_table.csv')
+table_df = pd.read_csv('./src/downloads/table_data/corona_table.csv')
 table_df.head()
 
 final_row = table_df[-1:]
@@ -171,7 +176,8 @@ total_infect = int(final_row["感染者"])
 treat = int(final_row["治療中"])
 dischange = int(final_row["退院"])
 
-update_at = "{}/{}/{} {}:{}".format(this_year, this_month, this_day, this_hour, this_minute)
+update_at = "{}/{}/{} {}:{}".format(this_year,
+                                    this_month, this_day, this_hour, this_minute)
 data_json = {
     "lastUpdate": update_at,
     "patients": {
@@ -204,5 +210,5 @@ data_json = {
     }
 }
 
-with open('./data/data.json', 'w') as f:
+with open('./src/data.json', 'w') as f:
     json.dump(data_json, f, indent=4, ensure_ascii=False)
