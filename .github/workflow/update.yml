@@ -49,4 +49,8 @@ jobs:
             https://api.github.com/repos/Retsuki/covid19-ishikawa/dispatches --data '{"event_type": "build_application"}' \
           || true
   
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
 
