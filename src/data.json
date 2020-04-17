@@ -1,7 +1,7 @@
 {
-    "lastUpdate": "2020/4/17 21:32",
+    "lastUpdate": "2020/4/17 21:33",
     "patients": {
-        "date": "2020/4/17 21:32",
+        "date": "2020/4/17 21:33",
         "data": [
             {
                 "date": "2020-02-21",
@@ -882,7 +882,7 @@
         ]
     },
     "patients_summary": {
-        "date": "2020/4/17 21:32",
+        "date": "2020/4/17 21:33",
         "data": [
             {
                 "日付": "2020-02-01",
@@ -1200,26 +1200,26 @@
         "children": [
             {
                 "attr": "感染者者数",
-                "value": 1,
+                "value": 146,
                 "children": [
                     {
                         "attr": "入院中",
-                        "value": 0
+                        "value": 133
                     },
                     {
                         "attr": "死亡",
-                        "value": 0
+                        "value": 4
                     },
                     {
                         "attr": "退院",
-                        "value": 1
+                        "value": 9
                     }
                 ]
             }
         ]
     },
     "city_summary": {
-        "lastUpdate": "2020/4/17 21:32",
+        "lastUpdate": "2020/4/17 21:33",
         "data": [
             {
                 "市区町村": "金沢市",
