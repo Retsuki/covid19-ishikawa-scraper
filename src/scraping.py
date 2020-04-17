@@ -47,7 +47,7 @@ x_month_data = create_x_month_data(date, date_column, subtotal_column)
 x_month_data.to_csv(
     './src/downloads/each_data/{}_{}.csv'.format(this_year, this_month), index=False)
 
-csv_files = glob.glob('../csv_data/each_data/*.csv')
+csv_files = glob.glob('./src/downloads/each_data/*.csv')
 each_csv = []
 for i in csv_files:
     each_csv.append(pd.read_csv(i))
