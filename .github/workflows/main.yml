@@ -2,11 +2,9 @@
 
 name: update data
 
-
 on:
-  push:
-    branches:
-      - master
+  schedule:
+    - cron: '*/5 * * * *'
 
 jobs:
   build:
@@ -38,6 +36,7 @@ jobs:
         python src/scraping.py
     - name: Run auto update script
       env:
+        TZ: Asia/Tokyo
         NAME: Retsuki
         EMAIL: retu1118@gmail.com
       run: |
