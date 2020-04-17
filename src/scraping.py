@@ -75,17 +75,17 @@ with open('./src/downloads/table_data/corona_table.csv', "w", encoding="utf-8") 
         writer.writerow(row)
 
 table_df = pd.read_csv('./src/downloads/table_data/corona_table.csv')
-table_df_no_tail = table_df.drop(20)
-table_df_dict = table_df_no_tail.to_dict('index')
-data3 = [table_df_dict.get(i) for i in range(len(table_df_no_tail))]
-
-
 # 感染者数, 入院者数, 死亡者数, 退院数
 final_row = table_df[-1:]
 total_infect = int(final_row["感染者"])
 treat = int(final_row["治療中"])
 death = int(final_row["死亡"])
 dischange = int(final_row["退院"])
+
+# 市区町村別の感染者データを作成
+table_df_no_tail = table_df.drop(20)
+table_df_dict = table_df_no_tail.to_dict('index')
+data3 = [table_df_dict.get(i) for i in range(len(table_df_no_tail))]
 
 
 # jsonデータを作成
