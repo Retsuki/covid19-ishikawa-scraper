@@ -75,9 +75,9 @@ with open('./src/downloads/table_data/corona_table.csv', "w", encoding="utf-8") 
         writer.writerow(row)
 
 table_df = pd.read_csv('./src/downloads/table_data/corona_table.csv')
-table_df = table_df.drop(20)
-table_df_dict = table_df.to_dict('index')
-data3 = [table_df_dict.get(i) for i in range(len(table_df))]
+table_df_no_tail = table_df.drop(20)
+table_df_dict = table_df_no_tail.to_dict('index')
+data3 = [table_df_dict.get(i) for i in range(len(table_df_no_tail))]
 
 
 # 感染者数, 入院者数, 死亡者数, 退院数
