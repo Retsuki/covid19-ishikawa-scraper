@@ -27,6 +27,7 @@ df['居住地'] = residence
 df['年代'] = age
 df['性別'] = sex
 
+
 patients_df = df.sort_values('date').reset_index(drop=True)
 patients_df.to_csv('./src/downloads/patients_data/patients.csv', index=False)
 patients_df_dict = patients_df.to_dict('index')
@@ -69,24 +70,31 @@ with open('./src/downloads/table_data/corona_table.csv', "w", encoding="utf-8") 
         row = []
         for cell in i.findAll(["td", "th"]):
             if cell.get_text() == '\u3000':
-                row.append('市区町村')
+                row.append('居住地')
             else:
                 row.append(cell.get_text())
         writer.writerow(row)
 
 table_df = pd.read_csv('./src/downloads/table_data/corona_table.csv')
+minus_one_table_df = table_df.drop(20)
+table_df_dict = minus_one_table_df.to_dict('index')
+data3 = [table_df_dict.get(i) for i in range(len(minus_one_table_df))]
+
+# 居住地別のデータを作成
+residence_pacients_df = minus_one_table_df.drop(columns=['退院', '死亡', '治療中'])
+residence_pacients_df.to_csv(
+    "./src/downloads/residence_pacients/total.csv", index=False)
+residence_pacients_df_dict = residence_pacients_df.to_dict('index')
+data4 = [residence_pacients_df_dict.get(i)
+         for i in range(len(residence_pacients_df))]
+data4
+
 # 感染者数, 入院者数, 死亡者数, 退院数
 final_row = table_df[-1:]
 total_infect = int(final_row["感染者"])
 treat = int(final_row["治療中"])
 death = int(final_row["死亡"])
 dischange = int(final_row["退院"])
-
-# 市区町村別の感染者データを作成
-table_df_no_tail = table_df.drop(20)
-table_df_dict = table_df_no_tail.to_dict('index')
-data3 = [table_df_dict.get(i) for i in range(len(table_df_no_tail))]
-
 
 # jsonデータを作成
 update_at = "{}/{}/{} {}:{}".format(this_year,
@@ -128,6 +136,10 @@ data_json = {
     "city_summary": {
         "lastUpdate": update_at,
         "data": data3
+    },
+    "residence_pacients": {
+        "lastUpdate": update_at,
+        "data": data4
     }
 }
 
