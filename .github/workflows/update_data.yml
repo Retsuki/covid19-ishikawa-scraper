@@ -29,11 +29,16 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-    - name: scraping data
+    - name: scraping covid19 data
       env:
         TZ: Asia/Tokyo
       run:
         python src/scraping.py
+    - name: scraping covid19 news data
+      env:
+        TZ: Asia/Tokyo
+      run:
+        python src/scraping_news.py
     - name: Run auto update script
       env:
         TZ: Asia/Tokyo
