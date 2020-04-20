@@ -94,7 +94,7 @@ final_row = table_df[-1:]
 total_infect = int(final_row["感染者"])
 treat = int(final_row["治療中"])
 death = int(final_row["死亡"])
-dischange = int(final_row["退院"])
+discharge = int(final_row["退院"])
 
 # jsonデータを作成
 update_at = "{}/{}/{} {}:{}".format(this_year,
@@ -127,7 +127,7 @@ data_json = {
                     },
                     {
                         "attr": "退院",
-                        "value": dischange
+                        "value": discharge
                     }
                 ]
             }
