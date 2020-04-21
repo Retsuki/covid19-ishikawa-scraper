@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/04/21 10:28",
+            "url": "https://www.jiji.com/jc/article?k=2020042100895&g=soc",
+            "text": "東京で新たに１２３人 石川で院内感染か―新型コロナ - 時事通信ニュース"
+        },
+        {
             "date": "2020/04/21 08:17",
             "url": "https://www3.nhk.or.jp/news/html/20200421/k10012398881000.html",
             "text": "石川県 新型コロナ感染の１人が死亡 新たに12人の感染確認 - NHK NEWS WEB"
@@ -19,11 +24,6 @@
             "date": "2020/04/20 10:13",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1071865",
             "text": "石川県で新型コロナ新たに3人、県内感染者数は計181人に 4月20日発表,岡部病院やかほく市の病院の関係者 | 社会,医療 | 福井のニュース | 福井新聞ONLINE - 福井新聞"
-        },
-        {
-            "date": "2020/04/20 01:35",
-            "url": "https://www.chunichi.co.jp/hokuriku/article/news/CK2020042002100009.html",
-            "text": "石川県、あすから休業要請 来月６日まで 運動や遊興施設 - 中日新聞"
         },
         {
             "date": "2020/04/19 08:37",
