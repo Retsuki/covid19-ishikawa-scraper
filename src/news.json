@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/04/21 06:54",
+            "url": "https://www3.nhk.or.jp/news/html/20200421/k10012398621000.html",
+            "text": "金沢 兼六園 きょうから休園 新型コロナ感染拡大防止で - NHK NEWS WEB"
+        },
+        {
             "date": "2020/04/21 01:20",
             "url": "https://www.chunichi.co.jp/hokuriku/article/news/CK2020042102100014.html",
             "text": "石川県内106業種に休業要請 知事「問題意識共有 協力を」 - 中日新聞"
@@ -19,11 +24,6 @@
             "date": "2020/04/20 01:35",
             "url": "https://www.chunichi.co.jp/hokuriku/article/news/CK2020042002100009.html",
             "text": "石川県、あすから休業要請 来月６日まで 運動や遊興施設 - 中日新聞"
-        },
-        {
-            "date": "2020/04/19 08:44",
-            "url": "https://www.fnn.jp/articles/-/34068",
-            "text": "初めて感染者出た自治体も…新型コロナ 石川で40-80代男女5人陽性確認 県内感染者178人 - FNNプライムオンライン"
         },
         {
             "date": "2020/04/19 08:37",
