@@ -1,11 +1,6 @@
 {
     "newsItems": [
         {
-            "date": "2020/04/26 12:41",
-            "url": "https://www.saga-s.co.jp/articles/-/516717",
-            "text": "新型コロナ、石川県でさらに６人が感染 - 佐賀新聞"
-        },
-        {
             "date": "2020/04/26 09:58",
             "url": "https://www.asahi.com/articles/ASN4V63N3N4VPISC00G.html",
             "text": "石川で3人新たに感染 クラスター発生の会社関係者ら [新型コロナウイルス] - 朝日新聞デジタル"
@@ -24,6 +19,11 @@
             "date": "2020/04/24 08:19",
             "url": "https://www.saga-s.co.jp/articles/-/516016",
             "text": "新型コロナ、石川県で新たに６人の感染確認 - 佐賀新聞"
+        },
+        {
+            "date": "2020/04/24 01:06",
+            "url": "https://www.chunichi.co.jp/hokuriku/article/news/CK2020042402100014.html",
+            "text": "石川県、ＰＣＲ検査拡充 対応件数増 ドライブスルーも検討 - 中日新聞"
         },
         {
             "date": "2020/04/23 01:20",
