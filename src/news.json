@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/04/26 11:00",
+            "url": "https://www3.nhk.or.jp/news/html/20200426/k10012406601000.html",
+            "text": "石川県 新たに３人感染確認 新型コロナウイルス - NHK NEWS WEB"
+        },
+        {
             "date": "2020/04/26 09:58",
             "url": "https://www.asahi.com/articles/ASN4V63N3N4VPISC00G.html",
             "text": "石川で3人新たに感染 クラスター発生の会社関係者ら [新型コロナウイルス] - 朝日新聞デジタル"
@@ -14,11 +19,6 @@
             "date": "2020/04/26 01:25",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1075664",
             "text": "石川県の新型コロナ感染者226人に 4月25日発表、新たに4人感染確認 | 社会 | 福井のニュース | 福井新聞ONLINE - 福井新聞"
-        },
-        {
-            "date": "2020/04/24 08:19",
-            "url": "https://www.saga-s.co.jp/articles/-/516016",
-            "text": "新型コロナ、石川県で新たに６人の感染確認 - 佐賀新聞"
         },
         {
             "date": "2020/04/24 01:06",
