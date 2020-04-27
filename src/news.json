@@ -1,6 +1,16 @@
 {
     "newsItems": [
         {
+            "date": "2020/04/27 01:57",
+            "url": "https://www.chunichi.co.jp/article/ishikawa/20200427/CK2020042702000038.html",
+            "text": "【コロナ禍の中で】疫病「ヨゲンノトリ」 江戸末期の日記 白山に出現？の記述 - 中日新聞"
+        },
+        {
+            "date": "2020/04/26 12:41",
+            "url": "https://headlines.yahoo.co.jp/hl?a=20200426-00000085-kyodonews-soci",
+            "text": "新型コロナ、石川県でさらに6人が感染（共同通信） - Yahoo!ニュース"
+        },
+        {
             "date": "2020/04/26 11:00",
             "url": "https://www3.nhk.or.jp/news/html/20200426/k10012406601000.html",
             "text": "石川県 新たに３人感染確認 新型コロナウイルス - NHK NEWS WEB"
@@ -19,16 +29,6 @@
             "date": "2020/04/26 01:25",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1075664",
             "text": "石川県の新型コロナ感染者226人に 4月25日発表、新たに4人感染確認 | 社会 | 福井のニュース | 福井新聞ONLINE - 福井新聞"
-        },
-        {
-            "date": "2020/04/24 08:09",
-            "url": "https://www.nikkei.com/article/DGXMZO58460140U0A420C2LB0000/",
-            "text": "石川県、新型コロナ対策に114億円 補正予算案 - 日本経済新聞"
-        },
-        {
-            "date": "2020/04/24 01:06",
-            "url": "https://www.chunichi.co.jp/hokuriku/article/news/CK2020042402100014.html",
-            "text": "石川県、ＰＣＲ検査拡充 対応件数増 ドライブスルーも検討 - 中日新聞"
         }
     ]
 }
