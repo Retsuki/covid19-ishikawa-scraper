@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/05/03 09:05",
+            "url": "https://www.fnn.jp/articles/-/38946",
+            "text": "連日の死者…60代と80代の新型コロナ感染者が死亡 石川で死者15人 新たな感染者4人も確認 - FNNプライムオンライン"
+        },
+        {
             "date": "2020/05/03 08:12",
             "url": "https://www3.nhk.or.jp/news/html/20200503/k10012416581000.html",
             "text": "石川 ２人死亡 県内の死者15人に 新型コロナウイルス - NHK NEWS WEB"
@@ -16,19 +21,14 @@
             "text": "【石川】県内１０万円給付 １４市町「今月中」 - 中日新聞"
         },
         {
+            "date": "2020/05/02 10:46",
+            "url": "https://www.asahi.com/articles/ASN526FJ4N52PISC00N.html",
+            "text": "石川県で6人感染、2人死亡 県内計260人に [新型コロナウイルス] - 朝日新聞デジタル"
+        },
+        {
             "date": "2020/05/02 09:33",
             "url": "https://www3.nhk.or.jp/news/html/20200502/k10012415671000.html",
             "text": "石川 新型コロナで２人死亡 ６人感染確認 計260人に - NHK NEWS WEB"
-        },
-        {
-            "date": "2020/04/30 01:51",
-            "url": "https://www.chunichi.co.jp/hokuriku/article/news/CK2020043002100015.html",
-            "text": "【石川】二ツ屋病院 ２人死亡 新型コロナ 感染増 金沢で１人 - 中日新聞"
-        },
-        {
-            "date": "2020/04/28 08:19",
-            "url": "https://www.fnn.jp/articles/-/37281",
-            "text": "県内感染者『245人』に…石川県で新たに男女4人の“新型コロナ”感染を確認 いずれも軽症 - FNNプライムオンライン"
         }
     ]
 }
