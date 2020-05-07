@@ -1,14 +1,24 @@
 {
     "newsItems": [
         {
-            "date": "2020/05/07 08:12",
-            "url": "https://www.saga-s.co.jp/articles/-/520264",
-            "text": "新型コロナ、石川県で新たに４人が感染 - 佐賀新聞"
+            "date": "2020/05/07 09:47",
+            "url": "https://www.asahi.com/articles/ASN575WZSN57PISC020.html",
+            "text": "クラスター発生の病院で新たに患者ら4人感染 石川県 [新型コロナウイルス] - 朝日新聞デジタル"
         },
         {
-            "date": "2020/05/06 09:38",
-            "url": "https://www.asahi.com/articles/ASN565WVVN56PISC003.html",
-            "text": "石川県で中学教員ら3人の感染確認 [新型コロナウイルス] - 朝日新聞デジタル"
+            "date": "2020/05/07 08:28",
+            "url": "https://www.oita-press.co.jp/1002000000/2020/05/07/NP2020050701001185",
+            "text": "新型コロナ、石川県で新たに４人が感染 - 大分合同新聞"
+        },
+        {
+            "date": "2020/05/07 08:15",
+            "url": "https://headlines.yahoo.co.jp/hl?a=20200507-00002325-ishikawa-l17",
+            "text": "県内最大のクラスター“64人”に…石川で病院関係者4人が新型コロナ陽性 県内の感染者275人（石川テレビ） - Yahoo!ニュース"
+        },
+        {
+            "date": "2020/05/06 09:24",
+            "url": "https://www.fukuishimbun.co.jp/articles/-/1081318",
+            "text": "石川県で新型コロナ新たに3人感染、5月6日 かほく市の二ツ屋病院の入院患者ら | 社会,医療 | 福井のニュース | 福井新聞ONLINE - 福井新聞"
         },
         {
             "date": "2020/05/04 08:32",
@@ -16,19 +26,9 @@
             "text": "石川 院内感染の病院で１人死亡 新型コロナウイルス - NHK NEWS WEB"
         },
         {
-            "date": "2020/05/03 08:12",
-            "url": "https://www3.nhk.or.jp/news/html/20200503/k10012416581000.html",
-            "text": "石川 ２人死亡 県内の死者15人に 新型コロナウイルス - NHK NEWS WEB"
-        },
-        {
             "date": "2020/05/03 03:00",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1079984",
             "text": "石川県で新型コロナ新たに6人感染、計260人に 5月2日発表、男性2人死亡 | 社会 | 福井のニュース | 福井新聞ONLINE - 福井新聞"
-        },
-        {
-            "date": "2020/05/02 09:33",
-            "url": "https://www3.nhk.or.jp/news/html/20200502/k10012415671000.html",
-            "text": "石川 新型コロナで２人死亡 ６人感染確認 計260人に - NHK NEWS WEB"
         }
     ]
 }
