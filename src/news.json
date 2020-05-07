@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/05/07 08:12",
+            "url": "https://www.saga-s.co.jp/articles/-/520264",
+            "text": "新型コロナ、石川県で新たに４人が感染 - 佐賀新聞"
+        },
+        {
             "date": "2020/05/06 09:24",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1081318",
             "text": "石川県で新型コロナ新たに3人感染、5月6日 かほく市の二ツ屋病院の入院患者ら | 社会,医療 | 福井のニュース | 福井新聞ONLINE - 福井新聞"
@@ -24,11 +29,6 @@
             "date": "2020/05/02 09:33",
             "url": "https://www3.nhk.or.jp/news/html/20200502/k10012415671000.html",
             "text": "石川 新型コロナで２人死亡 ６人感染確認 計260人に - NHK NEWS WEB"
-        },
-        {
-            "date": "2020/05/01 08:27",
-            "url": "https://www3.nhk.or.jp/news/html/20200501/k10012414441000.html",
-            "text": "石川 ３人が死亡 県内計11人に 新型コロナウイルス - NHK NEWS WEB"
         }
     ]
 }
