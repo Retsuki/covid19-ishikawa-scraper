@@ -1,14 +1,14 @@
 {
     "newsItems": [
         {
+            "date": "2020/05/11 09:51",
+            "url": "https://www3.nhk.or.jp/news/html/20200511/k10012425231000.html",
+            "text": "石川県 １人死亡 新たに２人感染確認 新型コロナウイルス - NHK NEWS WEB"
+        },
+        {
             "date": "2020/05/10 12:05",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1083344",
             "text": "石川県と東京都、新型コロナ病床が逼迫 厚労省、感染入院患者向け病床数公表 | 社会,医療 | 全国のニュース | 福井新聞ONLINE - 福井新聞"
-        },
-        {
-            "date": "2020/05/10 10:06",
-            "url": "https://www3.nhk.or.jp/news/html/20200510/k10012424221000.html",
-            "text": "石川県 クラスター発生の病院で患者１人感染確認 新型コロナ - NHK NEWS WEB"
         },
         {
             "date": "2020/05/10 08:59",
