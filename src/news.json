@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/05/14 08:38",
+            "url": "https://www.asahi.com/articles/ASN5G5RLJN5GPISC01F.html",
+            "text": "石川県で80代男性が死亡 クラスター発生病院の患者 [新型コロナウイルス] - 朝日新聞デジタル"
+        },
+        {
             "date": "2020/05/14 05:29",
             "url": "https://www.tokyo-np.co.jp/article/national/list/202005/CK2020051402000239.html",
             "text": "新型コロナ＞緊急事態３９県解除へ 石川「人の流れ戻る」期待:社会(TOKYO Web) - 東京新聞"
@@ -9,11 +14,6 @@
             "date": "2020/05/14 03:12",
             "url": "https://news.tv-asahi.co.jp/news_society/articles/000183948.html",
             "text": "“特定警戒”石川県は解除へ 市民「まだ早い」 - テレビ朝日"
-        },
-        {
-            "date": "2020/05/13 09:58",
-            "url": "https://www.asahi.com/articles/ASN5F5WV5N5FPISC01K.html",
-            "text": "石川県で90代男性が感染 クラスター発生の病院患者 [新型コロナウイルス] - 朝日新聞デジタル"
         },
         {
             "date": "2020/05/13 01:06",
