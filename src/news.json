@@ -1,19 +1,14 @@
 {
     "newsItems": [
         {
-            "date": "2020/05/18 08:58",
-            "url": "https://www.asahi.com/articles/ASN5L5QWKN5LPISC01D.html",
-            "text": "石川県で90代女性が死亡 集団感染の二ツ屋病院に入院 [新型コロナウイルス] - 朝日新聞デジタル"
-        },
-        {
             "date": "2020/05/18 07:20",
             "url": "https://www3.nhk.or.jp/news/html/20200518/k10012434811000.html",
             "text": "石川で90代の女性死亡 新たな感染確認なし 新型コロナ - NHK NEWS WEB"
         },
         {
-            "date": "2020/05/17 09:58",
-            "url": "https://www.asahi.com/articles/ASN5K64G7N5KPISC00B.html",
-            "text": "石川県で80代女性感染、クラスター発生病院の入院患者 [新型コロナウイルス] - 朝日新聞デジタル"
+            "date": "2020/05/15 09:58",
+            "url": "https://www.asahi.com/articles/ASN5H62GKN5HPISC01B.html",
+            "text": "石川県で50代看護師の感染確認 かほく市の病院に勤務 [新型コロナウイルス] - 朝日新聞デジタル"
         },
         {
             "date": "2020/05/15 02:36",
@@ -29,6 +24,11 @@
             "date": "2020/05/09 11:46",
             "url": "https://www.asahi.com/articles/ASN596KNDN59PISC00F.html",
             "text": "石川県で新型コロナ2人確認、計277人 [新型コロナウイルス] - 朝日新聞デジタル"
+        },
+        {
+            "date": "2020/05/09 07:00",
+            "url": "https://www.chunichi.co.jp/hokuriku/article/news/CK2020050902100012.html",
+            "text": "石川県は把握せず 新型コロナ 重症患者数 特定警戒13都道府県で唯一 - 中日新聞"
         }
     ]
 }
