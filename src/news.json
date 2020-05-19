@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/05/19 09:39",
+            "url": "https://www.asahi.com/articles/ASN5M62WJN5MPISC012.html",
+            "text": "石川で3人が感染 集団感染した病院の看護師と介護職員 [新型コロナウイルス] - asahi.com"
+        },
+        {
             "date": "2020/05/18 07:20",
             "url": "https://www3.nhk.or.jp/news/html/20200518/k10012434811000.html",
             "text": "石川で90代の女性死亡 新たな感染確認なし 新型コロナ - NHK NEWS WEB"
@@ -24,11 +29,6 @@
             "date": "2020/05/09 11:46",
             "url": "https://www.asahi.com/articles/ASN596KNDN59PISC00F.html",
             "text": "石川県で新型コロナ2人確認、計277人 [新型コロナウイルス] - 朝日新聞デジタル"
-        },
-        {
-            "date": "2020/05/09 07:00",
-            "url": "https://www.chunichi.co.jp/hokuriku/article/news/CK2020050902100012.html",
-            "text": "石川県は把握せず 新型コロナ 重症患者数 特定警戒13都道府県で唯一 - 中日新聞"
         }
     ]
 }
