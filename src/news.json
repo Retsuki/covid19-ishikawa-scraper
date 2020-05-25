@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/05/25 11:55",
+            "url": "https://headlines.yahoo.co.jp/hl?a=20200525-00002413-ishikawa-l17",
+            "text": "新型コロナ感染の10代男子学生…石川県「公表すべき行動履歴なし」 県内の感染確認2日連続ゼロ（石川テレビ） - Yahoo!ニュース"
+        },
+        {
             "date": "2020/05/24 08:10",
             "url": "https://headlines.yahoo.co.jp/hl?a=20200524-00002407-ishikawa-l17",
             "text": "5/20以来4日ぶり…新型コロナ 石川県で感染確認ゼロ これまで295人判明うち210人退院（石川テレビ） - Yahoo!ニュース"
@@ -24,11 +29,6 @@
             "date": "2020/05/13 07:00",
             "url": "https://www.chunichi.co.jp/hokuriku/article/news/CK2020051302100011.html",
             "text": "【石川】“県外車狩り”不安走る 新型コロナ - 中日新聞"
-        },
-        {
-            "date": "2020/05/09 07:00",
-            "url": "https://www.chunichi.co.jp/hokuriku/article/news/CK2020050902100012.html",
-            "text": "石川県は把握せず 新型コロナ 重症患者数 特定警戒13都道府県で唯一 - 中日新聞"
         }
     ]
 }
