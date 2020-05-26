@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/05/26 08:17",
+            "url": "https://www.saga-s.co.jp/articles/-/527239",
+            "text": "新型コロナ、石川県で新たに１人が感染 - 佐賀新聞"
+        },
+        {
             "date": "2020/05/25 11:55",
             "url": "https://headlines.yahoo.co.jp/hl?a=20200525-00002413-ishikawa-l17",
             "text": "新型コロナ感染の10代男子学生…石川県「公表すべき行動履歴なし」 県内の感染確認2日連続ゼロ（石川テレビ） - Yahoo!ニュース"
@@ -24,11 +29,6 @@
             "date": "2020/05/22 08:38",
             "url": "https://www3.nhk.or.jp/news/html/20200522/k10012441211000.html",
             "text": "石川県 2人死亡 新たに2人感染確認 新型コロナ - NHK NEWS WEB"
-        },
-        {
-            "date": "2020/05/13 07:00",
-            "url": "https://www.chunichi.co.jp/hokuriku/article/news/CK2020051302100011.html",
-            "text": "【石川】“県外車狩り”不安走る 新型コロナ - 中日新聞"
         }
     ]
 }
