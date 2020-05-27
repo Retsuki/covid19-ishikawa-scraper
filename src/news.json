@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/05/27 09:08",
+            "url": "https://headlines.yahoo.co.jp/hl?a=20200527-00862811-hokkoku-l17",
+            "text": "２日ぶり感染者なし 新型コロナウイルス感染症で石川県発表（北國新聞社） - Yahoo!ニュース"
+        },
+        {
             "date": "2020/05/27 09:00",
             "url": "https://headlines.yahoo.co.jp/hl?a=20200527-00002423-ishikawa-l17",
             "text": "現在61人の治療続く…新型コロナ 2日ぶり石川の新たな感染者ゼロ PCR検査11件全て陰性（石川テレビ） - Yahoo!ニュース"
@@ -19,11 +24,6 @@
             "date": "2020/05/26 09:38",
             "url": "https://www.asahi.com/articles/ASN5V61W8N5VPISC00V.html",
             "text": "石川県、80代男性感染 クラスター発生病院の入院患者 [新型コロナウイルス] - 朝日新聞デジタル"
-        },
-        {
-            "date": "2020/05/24 08:10",
-            "url": "https://headlines.yahoo.co.jp/hl?a=20200524-00002407-ishikawa-l17",
-            "text": "5/20以来4日ぶり…新型コロナ 石川県で感染確認ゼロ これまで295人判明うち210人退院（石川テレビ） - Yahoo!ニュース"
         },
         {
             "date": "2020/05/22 09:40",
