@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/05/30 09:05",
+            "url": "https://headlines.yahoo.co.jp/hl?a=20200530-00002438-ishikawa-l17",
+            "text": "県内死者25人中同じ病院関連で19人…新型コロナ感染の入院患者1人が死亡 新たな感染者はゼロ（石川テレビ） - Yahoo!ニュース"
+        },
+        {
             "date": "2020/05/28 20:00",
             "url": "https://www.chunichi.co.jp/article/64201",
             "text": "重症者数 国には報告 石川県、会見で「答えられない」 - 中日新聞"
@@ -24,11 +29,6 @@
             "date": "2020/05/22 07:00",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1090848",
             "text": "石川県5月22日は新型コロナ新たに2人感染、2人死亡 1人は死亡後に陽性判明、津幡町の10代男性も感染 | 社会,医療 | 福井のニュース | 福井新聞ONLINE - 福井新聞"
-        },
-        {
-            "date": "2020/05/15 07:00",
-            "url": "https://www.chunichi.co.jp/hokuriku/article/news/CK2020051502100016.html",
-            "text": "石川県 休業要請一部緩和 飲食店の時短解除 美術館など18日再開 - 中日新聞"
         }
     ]
 }
