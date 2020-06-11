@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/06/11 07:09",
+            "url": "https://www.47news.jp/medical/4903585.html",
+            "text": "６日連続で新型コロナ感染者なし 石川県 - 47NEWS"
+        },
+        {
             "date": "2020/06/09 01:37",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1101395",
             "text": "特別融資制度巡り石川県知事「製造業は借り慣れているから」 県が創設の制度の説明中に発言 | 政治・行政,経済,社会 | 福井のニュース | 福井新聞ONLINE - 福井新聞"
@@ -19,11 +24,6 @@
             "date": "2020/06/03 16:44",
             "url": "https://news.yahoo.co.jp/articles/9cd317bd1669a32b5a402cdc6cb353bf2e15ccec",
             "text": "コロナ療養ホテルの全員退所 石川県、当面借り上げ継続（北國新聞社） - Yahoo!ニュース"
-        },
-        {
-            "date": "2020/05/30 07:00",
-            "url": "https://www.fukuishimbun.co.jp/articles/-/1095694",
-            "text": "石川県で新型コロナ感染の80代男性死亡、5月30日発表 かほく市の二ツ屋病院の入院患者 | 社会,医療 | 福井のニュース | 福井新聞ONLINE - 福井新聞"
         },
         {
             "date": "2020/05/13 07:00",
