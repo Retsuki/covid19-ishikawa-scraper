@@ -1,6 +1,16 @@
 {
     "newsItems": [
         {
+            "date": "2020/06/11 20:00",
+            "url": "https://www.chunichi.co.jp/article/71941",
+            "text": "【石川】介護病棟から感染拡大 二ツ屋病院 全患者が高齢 - 中日新聞"
+        },
+        {
+            "date": "2020/06/05 07:00",
+            "url": "https://www.nikkei.com/article/DGXMZO60042190V00C20A6LB0000/",
+            "text": "石川県、新型コロナ対策に321億円 6月補正予算案 - 日本経済新聞"
+        },
+        {
             "date": "2020/06/05 07:00",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1099435",
             "text": "石川県で新型コロナ感染の女性が死亡、新たに女性1人が感染 6月5日 石川県内の感染者は計299人に | 社会 | 福井のニュース | 福井新聞ONLINE - 福井新聞"
@@ -11,19 +21,9 @@
             "text": "石川県で1人死亡 新たに1人の感染確認 新型コロナ - NHK NEWS WEB"
         },
         {
-            "date": "2020/06/05 07:00",
-            "url": "https://www.nikkei.com/article/DGXMZO60042190V00C20A6LB0000/",
-            "text": "石川県、新型コロナ対策に321億円 6月補正予算案 - 日本経済新聞"
-        },
-        {
             "date": "2020/06/04 07:00",
             "url": "https://news.yahoo.co.jp/articles/9cd317bd1669a32b5a402cdc6cb353bf2e15ccec",
             "text": "コロナ療養ホテルの全員退所 石川県、当面借り上げ継続（北國新聞社） - Yahoo!ニュース"
-        },
-        {
-            "date": "2020/05/29 07:00",
-            "url": "https://www.fukuishimbun.co.jp/articles/-/1095092",
-            "text": "石川県で80代女性が新型コロナ感染、5月29日 石川県内の感染者は298人に | 社会 | 福井のニュース | 福井新聞ONLINE - 福井新聞"
         },
         {
             "date": "2020/05/22 07:00",
