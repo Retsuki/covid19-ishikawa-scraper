@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/06/17 00:48",
+            "url": "https://www.chunichi.co.jp/article/74173",
+            "text": "【石川】コロナ病床 経緯黒塗り 対応可能 233床に増えたが - 中日新聞"
+        },
+        {
             "date": "2020/06/16 01:06",
             "url": "https://www.chunichi.co.jp/article/73635",
             "text": "コロナ流行 下水から察知 全国に先駆け 石川、富山で調査開始 - 中日新聞"
@@ -24,11 +29,6 @@
             "date": "2020/05/22 07:00",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1090848",
             "text": "石川県5月22日は新型コロナ新たに2人感染、2人死亡 1人は死亡後に陽性判明、津幡町の10代男性も感染 | 社会,医療 | 福井のニュース | 福井新聞ONLINE - 福井新聞"
-        },
-        {
-            "date": "2020/05/22 07:00",
-            "url": "https://www3.nhk.or.jp/news/html/20200522/k10012441211000.html",
-            "text": "石川県 2人死亡 新たに2人感染確認 新型コロナ - NHK NEWS WEB"
         }
     ]
 }
