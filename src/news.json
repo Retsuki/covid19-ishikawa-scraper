@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/06/20 07:33",
+            "url": "https://www.47news.jp/localnews/4932506.html",
+            "text": "１５日連続で感染者なし 新型コロナで石川県発表 - 47NEWS"
+        },
+        {
             "date": "2020/06/17 00:48",
             "url": "https://www.chunichi.co.jp/article/74173",
             "text": "【石川】コロナ病床 経緯黒塗り 対応可能 233床に増えたが - 中日新聞"
@@ -9,11 +14,6 @@
             "date": "2020/06/16 01:06",
             "url": "https://www.chunichi.co.jp/article/73635",
             "text": "コロナ流行 下水から察知 全国に先駆け 石川、富山で調査開始 - 中日新聞"
-        },
-        {
-            "date": "2020/06/10 07:00",
-            "url": "https://www.chunichi.co.jp/article/70680",
-            "text": "石川県、指針策定に遅れ 避難所のコロナ対策 中部９県で唯一 - 中日新聞"
         },
         {
             "date": "2020/06/05 07:00",
