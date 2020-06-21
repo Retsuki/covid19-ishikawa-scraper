@@ -1,11 +1,6 @@
 {
     "newsItems": [
         {
-            "date": "2020/06/20 11:30",
-            "url": "https://news.yahoo.co.jp/articles/562760aede88be71c5103870588cf928d00d803b",
-            "text": "石川県・2週間連続で新たな感染者なし…新型コロナウイルス（ＭＲＯテレビ） - Yahoo!ニュース"
-        },
-        {
             "date": "2020/06/20 11:28",
             "url": "https://news.yahoo.co.jp/articles/af396da54b9edca7386d360d39364f94abc872ee",
             "text": "石川県・新型コロナウイルス 15日連続感染者ゼロ（ＭＲＯテレビ） - Yahoo!ニュース"
@@ -24,6 +19,11 @@
             "date": "2020/06/05 07:00",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1099435",
             "text": "石川県で新型コロナ感染の女性が死亡、新たに女性1人が感染 6月5日 石川県内の感染者は計299人に | 社会 | 福井のニュース | 福井新聞ONLINE - 福井新聞"
+        },
+        {
+            "date": "2020/06/05 07:00",
+            "url": "https://www3.nhk.or.jp/news/html/20200605/k10012459801000.html",
+            "text": "石川県で1人死亡 新たに1人の感染確認 新型コロナ - NHK NEWS WEB"
         },
         {
             "date": "2020/06/04 07:00",
