@@ -1,14 +1,14 @@
 {
     "newsItems": [
         {
+            "date": "2020/06/22 09:54",
+            "url": "https://www.nikkei.com/article/DGXMZO60641520S0A620C2LB0000/",
+            "text": "石川県で新型コロナ感染者 東京から帰省 - 日本経済新聞"
+        },
+        {
             "date": "2020/06/17 00:48",
             "url": "https://www.chunichi.co.jp/article/74173",
             "text": "【石川】コロナ病床 経緯黒塗り 対応可能 233床に増えたが - 中日新聞"
-        },
-        {
-            "date": "2020/06/16 01:06",
-            "url": "https://www.chunichi.co.jp/article/73635",
-            "text": "コロナ流行 下水から察知 全国に先駆け 石川、富山で調査開始 - 中日新聞"
         },
         {
             "date": "2020/06/14 08:25",
