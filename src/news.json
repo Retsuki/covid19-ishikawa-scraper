@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/06/24 08:10",
+            "url": "https://www.47news.jp/localnews/4945745.html",
+            "text": "新たな感染者なし 新型コロナで石川県発表 - 47NEWS"
+        },
+        {
             "date": "2020/06/24 00:55",
             "url": "https://www.chunichi.co.jp/article/77599",
             "text": "谷本石川県知事 またまた舌禍 「コロナとご縁」 - 中日新聞"
@@ -19,11 +24,6 @@
             "date": "2020/06/05 07:00",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1099435",
             "text": "石川県で新型コロナ感染の女性が死亡、新たに女性1人が感染 6月5日 - 福井新聞"
-        },
-        {
-            "date": "2020/06/05 07:00",
-            "url": "https://www.nikkei.com/article/DGXMZO60042190V00C20A6LB0000/",
-            "text": "石川県、新型コロナ対策に321億円 6月補正予算案 - 日本経済新聞"
         },
         {
             "date": "2020/06/04 07:00",
