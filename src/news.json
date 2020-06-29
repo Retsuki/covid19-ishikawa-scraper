@@ -1,11 +1,6 @@
 {
     "newsItems": [
         {
-            "date": "2020/06/29 07:12",
-            "url": "https://www.47news.jp/localnews/4961397.html",
-            "text": "１週間連続で感染者なし 新型コロナで石川県発表 - 47NEWS"
-        },
-        {
             "date": "2020/06/29 02:19",
             "url": "https://news.yahoo.co.jp/articles/358538940d0575daf502ffd6b1a67f96ddd33f01",
             "text": "新たな感染者ゼロは6日連続…新型コロナ 石川県内で1人が退院 入院中の患者は21人に減少（石川テレビ） - Yahoo!ニュース"
@@ -29,6 +24,11 @@
             "date": "2020/06/05 07:00",
             "url": "https://www.nikkei.com/article/DGXMZO60042190V00C20A6LB0000/",
             "text": "石川県、新型コロナ対策に321億円 6月補正予算案 - 日本経済新聞"
+        },
+        {
+            "date": "2020/06/05 07:00",
+            "url": "https://www.fukuishimbun.co.jp/articles/-/1099435",
+            "text": "石川県で新型コロナ感染の女性が死亡、新たに女性1人が感染 6月5日 - 福井新聞"
         }
     ]
 }
