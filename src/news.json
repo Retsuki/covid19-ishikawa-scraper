@@ -1,14 +1,19 @@
 {
     "newsItems": [
         {
+            "date": "2020/07/01 07:05",
+            "url": "https://www.47news.jp/localnews/4969176.html",
+            "text": "９日連続で感染者なし 新型コロナ、石川県発表 - 47NEWS"
+        },
+        {
+            "date": "2020/06/24 00:55",
+            "url": "https://www.chunichi.co.jp/article/77599",
+            "text": "谷本石川県知事 またまた舌禍 「コロナとご縁」 - 中日新聞"
+        },
+        {
             "date": "2020/06/22 07:00",
             "url": "https://www.nikkei.com/article/DGXMZO60641520S0A620C2LB0000/",
             "text": "石川県で新型コロナ感染者 東京から帰省 - 日本経済新聞"
-        },
-        {
-            "date": "2020/06/17 07:00",
-            "url": "https://www.chunichi.co.jp/article/74173",
-            "text": "【石川】コロナ病床 経緯黒塗り 対応可能 233床に増えたが - 中日新聞"
         },
         {
             "date": "2020/06/05 07:00",
@@ -24,11 +29,6 @@
             "date": "2020/06/05 07:00",
             "url": "https://www3.nhk.or.jp/news/html/20200605/k10012459801000.html",
             "text": "石川県で1人死亡 新たに1人の感染確認 新型コロナ - NHK NEWS WEB"
-        },
-        {
-            "date": "2020/06/04 07:00",
-            "url": "https://news.yahoo.co.jp/articles/9cd317bd1669a32b5a402cdc6cb353bf2e15ccec",
-            "text": "コロナ療養ホテルの全員退所 石川県、当面借り上げ継続（北國新聞社） - Yahoo!ニュース"
         }
     ]
 }
