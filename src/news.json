@@ -1,24 +1,19 @@
 {
     "newsItems": [
         {
+            "date": "2020/07/03 07:13",
+            "url": "https://www.47news.jp/localnews/4976577.html",
+            "text": "１１日連続で感染者ゼロ 新型コロナ、石川県発表 - 47NEWS"
+        },
+        {
             "date": "2020/07/02 11:50",
             "url": "https://webun.jp/item/7673115",
             "text": "入善高女子生徒が感染 大阪・石川訪問、県内で確認５月１８日以来｜北日本新聞ウェブ[webun ウェブン] - webun.jp"
         },
         {
-            "date": "2020/06/25 10:25",
-            "url": "https://www.nikkei.com/article/DGXMZO60798200V20C20A6LB0000/",
-            "text": "石川県の不動産市況、新型コロナで大幅悪化 - 日本経済新聞"
-        },
-        {
             "date": "2020/06/24 07:00",
             "url": "https://www.chunichi.co.jp/article/77599",
             "text": "谷本石川県知事 またまた舌禍 「コロナとご縁」 - 中日新聞"
-        },
-        {
-            "date": "2020/06/22 07:00",
-            "url": "https://www.nikkei.com/article/DGXMZO60641520S0A620C2LB0000/",
-            "text": "石川県で新型コロナ感染者 東京から帰省 - 日本経済新聞"
         },
         {
             "date": "2020/06/05 07:00",
@@ -29,6 +24,11 @@
             "date": "2020/06/05 07:00",
             "url": "https://www3.nhk.or.jp/news/html/20200605/k10012459801000.html",
             "text": "石川県で1人死亡 新たに1人の感染確認 新型コロナ - NHK NEWS WEB"
+        },
+        {
+            "date": "2020/06/05 07:00",
+            "url": "https://www.fukuishimbun.co.jp/articles/-/1099435",
+            "text": "石川県で新型コロナ感染の女性が死亡、新たに女性1人が感染 6月5日 - 福井新聞"
         }
     ]
 }
