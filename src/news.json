@@ -1,11 +1,6 @@
 {
     "newsItems": [
         {
-            "date": "2020/07/02 07:47",
-            "url": "https://news.yahoo.co.jp/articles/e954f8fda068ea5b77cf0d67b91d4523250c749e",
-            "text": "入善高女子生徒が感染 大阪・石川訪問、県内で確認５月１８日以来（北日本新聞） - Yahoo!ニュース"
-        },
-        {
             "date": "2020/06/24 07:00",
             "url": "https://www.chunichi.co.jp/article/77599",
             "text": "谷本石川県知事 またまた舌禍 「コロナとご縁」 - 中日新聞"
@@ -29,6 +24,11 @@
             "date": "2020/06/05 07:00",
             "url": "https://www.nikkei.com/article/DGXMZO60042190V00C20A6LB0000/",
             "text": "石川県、新型コロナ対策に321億円 6月補正予算案 - 日本経済新聞"
+        },
+        {
+            "date": "2020/06/05 07:00",
+            "url": "https://www.fukuishimbun.co.jp/articles/-/1099435",
+            "text": "石川県で新型コロナ感染の女性が死亡、新たに女性1人が感染 6月5日 - 福井新聞"
         }
     ]
 }
