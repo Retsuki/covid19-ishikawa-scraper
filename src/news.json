@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/07/08 07:08",
+            "url": "https://www.47news.jp/localnews/4991973.html",
+            "text": "１６日連続で感染者なし 新型コロナ、石川県発表 - 47NEWS"
+        },
+        {
             "date": "2020/07/07 07:19",
             "url": "https://www.47news.jp/localnews/4988543.html",
             "text": "１５日連続で感染者なし 新型コロナ、石川県発表 - 47NEWS"
@@ -14,11 +19,6 @@
             "date": "2020/07/03 03:31",
             "url": "https://www.fnn.jp/articles/-/59052",
             "text": "“発熱と嗅覚異常”も当初受診せず…新型コロナ感染の富山の女子高生 6月末石川訪れた後陽性判明 - FNNプライムオンライン"
-        },
-        {
-            "date": "2020/06/30 07:00",
-            "url": "https://news.yahoo.co.jp/articles/a86baecfe29c8829b00824fa1c95ce665e6c97f4",
-            "text": "８日連続で感染者なし 新型コロナで石川県発表（北國新聞社） - Yahoo!ニュース"
         },
         {
             "date": "2020/06/25 07:00",
