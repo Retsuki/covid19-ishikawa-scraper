@@ -1,11 +1,6 @@
 {
     "newsItems": [
         {
-            "date": "2020/07/10 09:00",
-            "url": "https://www.nikkei.com/article/DGXMZO61334210Z00C20A7LB0000/",
-            "text": "新型コロナ:石川の自治体、移住相談急増 首都圏から自然求め - 日本経済新聞"
-        },
-        {
             "date": "2020/07/08 17:05",
             "url": "https://mainichi.jp/articles/20200709/ddm/005/070/005000c",
             "text": "記者の目：コロナ感染者有数、石川の観光 「訪日客」「域内」均衡を図れ＝阿部弘賢（北陸総局） - 毎日新聞"
@@ -29,6 +24,11 @@
             "date": "2020/06/24 07:00",
             "url": "https://www.chunichi.co.jp/article/77599",
             "text": "谷本石川県知事 またまた舌禍 「コロナとご縁」 - 中日新聞"
+        },
+        {
+            "date": "2020/06/22 07:00",
+            "url": "https://www.nikkei.com/article/DGXMZO60641520S0A620C2LB0000/",
+            "text": "石川県で新型コロナ感染者 東京から帰省 - 日本経済新聞"
         }
     ]
 }
