@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/07/12 07:14",
+            "url": "https://www.47news.jp/localnews/5006794.html",
+            "text": "２０日連続で感染者なし 新型コロナ、石川県発表 - 47NEWS"
+        },
+        {
             "date": "2020/07/11 05:49",
             "url": "https://www.47news.jp/localnews/5003708.html",
             "text": "１９日連続で感染者なし 新型コロナ、石川県発表 - 47NEWS"
@@ -19,11 +24,6 @@
             "date": "2020/06/25 07:00",
             "url": "https://www.nikkei.com/article/DGXMZO60798200V20C20A6LB0000/",
             "text": "石川県の不動産市況、新型コロナで大幅悪化 - 日本経済新聞"
-        },
-        {
-            "date": "2020/06/24 07:00",
-            "url": "https://www.chunichi.co.jp/article/77599",
-            "text": "谷本石川県知事 またまた舌禍 「コロナとご縁」 - 中日新聞"
         },
         {
             "date": "2020/06/22 07:00",
