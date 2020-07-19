@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/07/19 01:30",
+            "url": "https://www.asahi.com/articles/ASN7L6R31N7LPISC010.html",
+            "text": "石川）新型コロナ2人が新たに感染 計303人に [新型コロナウイルス] - 朝日新聞社"
+        },
+        {
             "date": "2020/07/18 08:23",
             "url": "https://www3.nhk.or.jp/news/html/20200718/k10012522361000.html",
             "text": "石川 新たに2人感染 県内計303人に 新型コロナ - NHK NEWS WEB"
@@ -19,11 +24,6 @@
             "date": "2020/07/14 10:40",
             "url": "https://news.yahoo.co.jp/articles/3f4e38afb626b42181a27de212822cb3b4771665",
             "text": "22日連続で“ゼロ”…新型コロナ 石川県内で新たな感染者確認されず 2人退院し治療中は4人に（石川テレビ） - Yahoo!ニュース"
-        },
-        {
-            "date": "2020/06/25 07:00",
-            "url": "https://www.nikkei.com/article/DGXMZO60798200V20C20A6LB0000/",
-            "text": "石川県の不動産市況、新型コロナで大幅悪化 - 日本経済新聞"
         },
         {
             "date": "2020/06/22 07:00",
