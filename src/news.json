@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/07/22 07:26",
+            "url": "https://www.47news.jp/localnews/5045756.html",
+            "text": "新たな感染者なし 新型コロナ、石川県発表 - 47NEWS"
+        },
+        {
             "date": "2020/07/21 11:00",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1128409",
             "text": "7/21コロナ速報_石川県で乳児含む3人感染 - 福井新聞"
@@ -24,11 +29,6 @@
             "date": "2020/07/13 07:00",
             "url": "https://news.yahoo.co.jp/articles/4d121ade2b534ccf025f95efd58302a4a936c166",
             "text": "２１日連続で感染者なし 新型コロナ、石川県発表（北國新聞社） - Yahoo!ニュース"
-        },
-        {
-            "date": "2020/06/22 07:00",
-            "url": "https://www.nikkei.com/article/DGXMZO60641520S0A620C2LB0000/",
-            "text": "石川県で新型コロナ感染者 東京から帰省 - 日本経済新聞"
         }
     ]
 }
