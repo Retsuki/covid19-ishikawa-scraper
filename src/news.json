@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/07/28 09:55",
+            "url": "https://news.yahoo.co.jp/articles/9d869076474f63cb732eb4c1c7c411350fdba4c3",
+            "text": "マスクしないで会食…60代女性の新型コロナ感染が判明 会食の時期や場所について県は公表せず（石川テレビ） - Yahoo!ニュース"
+        },
+        {
             "date": "2020/07/28 09:13",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1132816",
             "text": "7/28コロナ速報_石川県が60代女性の感染発表 - 福井新聞"
@@ -24,11 +29,6 @@
             "date": "2020/07/25 10:22",
             "url": "https://news.yahoo.co.jp/articles/088b5d603ab8eda771785ea07b7f2526859dc1ca",
             "text": "石川県 3日ぶりに新型コロナウイルス感染者ゼロ（MRO北陸放送） - Yahoo!ニュース"
-        },
-        {
-            "date": "2020/07/17 07:00",
-            "url": "https://www.nikkei.com/article/DGXMZO61659390X10C20A7LB0000/",
-            "text": "金沢大生が新型コロナ感染 石川県で25日ぶり確認 - 日本経済新聞"
         }
     ]
 }
