@@ -1,11 +1,6 @@
 {
     "newsItems": [
         {
-            "date": "2020/07/31 08:25",
-            "url": "https://www.47news.jp/5078998.html",
-            "text": "7/31コロナ速報_石川県金沢市の20代男性が感染 - 47NEWS"
-        },
-        {
             "date": "2020/07/30 23:10",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1134382",
             "text": "7/30コロナ速報_石川県金沢市の男女4人が感染 - 福井新聞"
@@ -24,6 +19,11 @@
             "date": "2020/07/29 08:39",
             "url": "https://news.yahoo.co.jp/articles/98e9747c6e6dd88fd752a477f05dbf1f0811e6b7",
             "text": "石川県内で新たに２人感染 新型コロナで県発表（北國新聞社） - Yahoo!ニュース"
+        },
+        {
+            "date": "2020/07/29 08:13",
+            "url": "https://www3.nhk.or.jp/news/html/20200729/k10012539261000.html",
+            "text": "石川 新たに2人感染確認 新型コロナウイルス - NHK NEWS WEB"
         },
         {
             "date": "2020/07/28 09:13",
