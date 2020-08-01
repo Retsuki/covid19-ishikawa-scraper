@@ -1,14 +1,14 @@
 {
     "newsItems": [
         {
+            "date": "2020/08/01 09:10",
+            "url": "https://www3.nhk.or.jp/news/html/20200801/k10012545721000.html",
+            "text": "石川 1人感染確認 新型コロナウイルス - NHK NEWS WEB"
+        },
+        {
             "date": "2020/07/30 23:10",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1134382",
             "text": "7/30コロナ速報_石川県金沢市の男女4人が感染 - 福井新聞"
-        },
-        {
-            "date": "2020/07/30 17:01",
-            "url": "https://www.hokkoku.co.jp/subpage/K20200731302.htm",
-            "text": "石川の飲食店、業態で明暗 コロナの影響回復具合 - 経済ニュース - 北國新聞"
         },
         {
             "date": "2020/07/30 09:27",
