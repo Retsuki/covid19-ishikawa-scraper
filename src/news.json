@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/08/06 09:32",
+            "url": "https://www.hokkoku.co.jp/subpage/E20200806003.htm",
+            "text": "石川県内で新たに６人感染 新型コロナで県発表 - 石川県のニュース - 北國新聞"
+        },
+        {
             "date": "2020/08/06 08:40",
             "url": "https://www3.nhk.or.jp/news/html/20200806/k10012554511000.html",
             "text": "石川 新型コロナ 新たに6人感染確認 県内計330人に - NHK NEWS WEB"
@@ -24,11 +29,6 @@
             "date": "2020/08/02 08:54",
             "url": "https://www.hokkoku.co.jp/subpage/E20200802001.htm",
             "text": "石川県内で新たに１人感染 新型コロナで県発表 - 石川県のニュース - 北國新聞"
-        },
-        {
-            "date": "2020/08/02 08:30",
-            "url": "https://www.fukuishimbun.co.jp/articles/-/1136466",
-            "text": "8/2コロナ速報_石川県金沢市の70代男性感染 - 福井新聞"
         }
     ]
 }
