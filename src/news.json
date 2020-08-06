@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/08/06 08:16",
+            "url": "https://www.fukuishimbun.co.jp/articles/-/1139407",
+            "text": "8/6コロナ速報_石川県で6人感染、20~70代の男女 - 福井新聞"
+        },
+        {
             "date": "2020/08/06 01:30",
             "url": "https://www.asahi.com/articles/ASN856S72N85PISC001.html",
             "text": "県、コロナ患者受け入れ新態勢 病院名も公表 石川 [新型コロナウイルス] - 朝日新聞社"
@@ -24,11 +29,6 @@
             "date": "2020/08/02 08:30",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1136466",
             "text": "8/2コロナ速報_石川県金沢市の70代男性感染 - 福井新聞"
-        },
-        {
-            "date": "2020/07/30 09:27",
-            "url": "https://www.hokkoku.co.jp/subpage/E20200730003.htm",
-            "text": "石川県内で新たに４人感染 新型コロナで県発表 - 石川県のニュース - 北國新聞"
         }
     ]
 }
