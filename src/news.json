@@ -1,24 +1,19 @@
 {
     "newsItems": [
         {
-            "date": "2020/08/06 09:32",
-            "url": "https://www.hokkoku.co.jp/subpage/E20200806003.htm",
-            "text": "石川県内で新たに６人感染 新型コロナで県発表 - 石川県のニュース - 北國新聞"
-        },
-        {
             "date": "2020/08/06 08:40",
             "url": "https://www3.nhk.or.jp/news/html/20200806/k10012554511000.html",
             "text": "石川 新型コロナ 新たに6人感染確認 県内計330人に - NHK NEWS WEB"
         },
         {
+            "date": "2020/08/06 08:16",
+            "url": "https://www.fukuishimbun.co.jp/articles/-/1139407",
+            "text": "8/6コロナ速報_石川県で6人感染、20~70代の男女 - 福井新聞"
+        },
+        {
             "date": "2020/08/06 01:30",
             "url": "https://www.asahi.com/articles/ASN856S72N85PISC001.html",
             "text": "石川県、コロナ患者を受け入れる新態勢 病院名も公表 [新型コロナウイルス] - 朝日新聞社"
-        },
-        {
-            "date": "2020/08/05 14:05",
-            "url": "https://news.yahoo.co.jp/articles/81607abb6fdde9843968be1f831fe316f5d30d65",
-            "text": "新型コロナ 福井県の感染者が発症前に金沢市来訪（MRO北陸放送） - Yahoo!ニュース"
         },
         {
             "date": "2020/08/04 08:35",
@@ -29,6 +24,11 @@
             "date": "2020/08/02 08:54",
             "url": "https://www.hokkoku.co.jp/subpage/E20200802001.htm",
             "text": "石川県内で新たに１人感染 新型コロナで県発表 - 石川県のニュース - 北國新聞"
+        },
+        {
+            "date": "2020/08/02 08:30",
+            "url": "https://www.fukuishimbun.co.jp/articles/-/1136466",
+            "text": "8/2コロナ速報_石川県金沢市の70代男性感染 - 福井新聞"
         }
     ]
 }
