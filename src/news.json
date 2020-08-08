@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/08/08 01:01",
+            "url": "https://www.chunichi.co.jp/article/101748",
+            "text": "石川県がクラスター班 専門家 発生初期に派遣 - 中日新聞"
+        },
+        {
             "date": "2020/08/07 08:53",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1140230",
             "text": "8/7コロナ速報_石川県小松市の80代男性が感染 - 福井新聞"
@@ -24,11 +29,6 @@
             "date": "2020/08/06 01:30",
             "url": "https://www.asahi.com/articles/ASN856S72N85PISC001.html",
             "text": "石川県、コロナ患者を受け入れる新態勢 病院名も公表 [新型コロナウイルス] - 朝日新聞社"
-        },
-        {
-            "date": "2020/08/04 08:35",
-            "url": "https://www3.nhk.or.jp/news/html/20200804/k10012550471000.html",
-            "text": "金沢市 30代男性の感染確認 石川県内計324人 新型コロナ - NHK NEWS WEB"
         }
     ]
 }
