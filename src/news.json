@@ -1,11 +1,6 @@
 {
     "newsItems": [
         {
-            "date": "2020/08/12 16:59",
-            "url": "https://www3.nhk.or.jp/news/html/20200812/k10012564121000.html",
-            "text": "石川 新型コロナ 新たに9人感染確認 県内計399人 - NHK NEWS WEB"
-        },
-        {
             "date": "2020/08/12 11:22",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1143174",
             "text": "8/12コロナ速報_石川県で男女9人感染、60～80代の男女4人はクラスター発生のカラオケ大会関係者 - 福井新聞"
@@ -14,6 +9,11 @@
             "date": "2020/08/12 09:12",
             "url": "https://www.nikkei.com/article/DGXMZO62558920S0A810C2LB0000/",
             "text": "新型コロナ:新型コロナ即時対応病床45%増 石川県、感染増に対応 - 日本経済新聞"
+        },
+        {
+            "date": "2020/08/12 08:19",
+            "url": "https://www3.nhk.or.jp/news/html/20200812/k10012564121000.html",
+            "text": "石川 新型コロナ 新たに9人感染確認 県内計399人 - NHK NEWS WEB"
         },
         {
             "date": "2020/08/11 10:20",
