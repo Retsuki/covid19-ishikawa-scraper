@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/08/16 10:11",
+            "url": "https://news.yahoo.co.jp/articles/503c1c7d7031e3e1840e1a1930144a3b874885b0",
+            "text": "石川・“酒伴う会食”で2つのクラスター発生18人感染、二ツ屋病院の看護師1人も死亡（MRO北陸放送） - Yahoo!ニュース"
+        },
+        {
             "date": "2020/08/16 09:21",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1145671",
             "text": "8/16コロナ速報_石川県が女性1人の死亡と18人の感染を発表 - 福井新聞"
@@ -14,11 +19,6 @@
             "date": "2020/08/15 10:30",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1145179",
             "text": "8/15コロナ速報_石川県が男女13人の感染確認 - 福井新聞"
-        },
-        {
-            "date": "2020/08/14 08:28",
-            "url": "https://www3.nhk.or.jp/news/html/20200814/k10012567051000.html",
-            "text": "石川 新型コロナ 新たに13人の感染確認 県内計425人に - NHK NEWS WEB"
         },
         {
             "date": "2020/08/13 09:01",
