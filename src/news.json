@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/08/19 03:20",
+            "url": "https://www.fukuishimbun.co.jp/articles/-/1147202",
+            "text": "金沢百番街の社員が新型コロナ感染 - 福井新聞"
+        },
+        {
             "date": "2020/08/19 02:50",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1147190",
             "text": "新小松イオンの従業員がコロナ陽性 - 福井新聞"
@@ -24,11 +29,6 @@
             "date": "2020/08/17 08:47",
             "url": "https://www3.nhk.or.jp/news/html/20200817/k10012571011000.html",
             "text": "石川県 新型コロナ 19人の感染確認 県内計475人に - NHK NEWS WEB"
-        },
-        {
-            "date": "2020/08/15 10:30",
-            "url": "https://www.fukuishimbun.co.jp/articles/-/1145179",
-            "text": "8/15コロナ速報_石川県が男女13人の感染確認 - 福井新聞"
         }
     ]
 }
