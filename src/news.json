@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/08/20 23:16",
+            "url": "https://www.fukuishimbun.co.jp/articles/-/1148100",
+            "text": "8/20コロナ速報_石川県で19人感染 経路不明が13人 かほく市の病院の入院患者も - 福井新聞"
+        },
+        {
             "date": "2020/08/20 08:29",
             "url": "https://www3.nhk.or.jp/news/html/20200820/k10012575921000.html",
             "text": "石川 新型コロナ 1人死亡 19人感染確認 県内計524人に - NHK NEWS WEB"
@@ -19,11 +24,6 @@
             "date": "2020/08/19 09:14",
             "url": "https://news.yahoo.co.jp/articles/5980be5c8e2cd80431a036b744b097af19c25cd8",
             "text": "石川で１４人が新型コロナ感染 グループホームと飲食店でクラスター（北國新聞社） - Yahoo!ニュース"
-        },
-        {
-            "date": "2020/08/18 09:10",
-            "url": "https://www3.nhk.or.jp/news/html/20200818/k10012572271000.html",
-            "text": "石川 新型コロナ 11人感染確認 県内計486人に - NHK NEWS WEB"
         },
         {
             "date": "2020/08/17 08:47",
