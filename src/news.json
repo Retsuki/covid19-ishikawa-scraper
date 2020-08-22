@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/08/22 08:49",
+            "url": "https://www.fukuishimbun.co.jp/articles/-/1149472",
+            "text": "8/22コロナ速報_石川県で18人の感染確認 - 福井新聞"
+        },
+        {
             "date": "2020/08/22 08:23",
             "url": "https://www3.nhk.or.jp/news/html/20200822/k10012579011000.html",
             "text": "石川県 新型コロナ 新たに18人感染確認 県内計550人に - NHK NEWS WEB"
@@ -14,11 +19,6 @@
             "date": "2020/08/21 09:35",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1148843",
             "text": "8/21コロナ速報_石川県で男女8人感染、うち1人はクラスター発生のグループホームの感染者と接触 - 福井新聞"
-        },
-        {
-            "date": "2020/08/21 08:45",
-            "url": "https://news.yahoo.co.jp/articles/c3eed58444a19ceb13d13992c44c570eb69b0498",
-            "text": "石川県で男女8人が新型コロナ感染（共同通信） - Yahoo!ニュース - Yahoo!ニュース"
         },
         {
             "date": "2020/08/21 01:12",
