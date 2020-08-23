@@ -1,14 +1,14 @@
 {
     "newsItems": [
         {
+            "date": "2020/08/23 09:03",
+            "url": "https://www3.nhk.or.jp/news/html/20200823/k10012579971000.html",
+            "text": "石川 新型コロナ 16人感染確認 1人死亡 - NHK NEWS WEB"
+        },
+        {
             "date": "2020/08/23 08:39",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1149902",
             "text": "8/23コロナ速報_石川県で1人死亡、16人感染確認 - 福井新聞"
-        },
-        {
-            "date": "2020/08/22 08:55",
-            "url": "https://news.yahoo.co.jp/articles/46daf2c9cf57943d20dd62e388cb0316ee816689",
-            "text": "石川で１８人が新型コロナ感染 小松・やわたメディカルでクラスター（北國新聞社） - Yahoo!ニュース"
         },
         {
             "date": "2020/08/22 08:49",
