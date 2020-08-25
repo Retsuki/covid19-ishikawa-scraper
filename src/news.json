@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/08/25 08:25",
+            "url": "https://www3.nhk.or.jp/news/html/20200825/k10012583281000.html",
+            "text": "石川 新型コロナ 新たに12人の感染確認 県内計585人に - NHK NEWS WEB"
+        },
+        {
             "date": "2020/08/24 13:10",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1150455",
             "text": "8/24コロナ速報_石川県で男女7人感染、加賀市の40代男性も 金沢大学は看護師の感染発表 - 福井新聞"
@@ -24,11 +29,6 @@
             "date": "2020/08/23 07:03",
             "url": "https://news.yahoo.co.jp/articles/bcfc21222ee7cc27394a3a673cc83a58a5dc2536",
             "text": "新型コロナ感染の２人 石川県の滞在歴あり（福井県）（FBC 福井放送） - Yahoo!ニュース"
-        },
-        {
-            "date": "2020/08/22 08:49",
-            "url": "https://www.fukuishimbun.co.jp/articles/-/1149472",
-            "text": "8/22コロナ速報_石川県で18人の感染確認 - 福井新聞"
         }
     ]
 }
