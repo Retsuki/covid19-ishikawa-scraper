@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/08/25 23:10",
+            "url": "https://www.fukuishimbun.co.jp/articles/-/1151197",
+            "text": "8/25コロナ速報_石川県で11人感染 高校生や加賀市の認定こども園通う0歳児も - 福井新聞"
+        },
+        {
             "date": "2020/08/25 09:24",
             "url": "https://news.yahoo.co.jp/articles/29c698911bf080a9d476e18cb519275df7ac9088",
             "text": "石川で１２人が新型コロナ感染 やわたメディカルで１人（北國新聞社） - Yahoo!ニュース"
@@ -24,11 +29,6 @@
             "date": "2020/08/23 23:45",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1149902",
             "text": "8/23コロナ速報_石川県で1人死亡16人感染確認、うちクラスター発生の病院で看護師1人と入院患者7人感染 - 福井新聞"
-        },
-        {
-            "date": "2020/08/23 07:03",
-            "url": "https://news.yahoo.co.jp/articles/bcfc21222ee7cc27394a3a673cc83a58a5dc2536",
-            "text": "新型コロナ感染の２人 石川県の滞在歴あり（福井県）（FBC 福井放送） - Yahoo!ニュース"
         }
     ]
 }
