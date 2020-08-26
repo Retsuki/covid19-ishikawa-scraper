@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/08/26 10:00",
+            "url": "https://www.47news.jp/localnews/5182402.html",
+            "text": "8/26コロナ速報_石川県で男女7人感染発表、クラスター発生の小松市のセンター関連計21人に - 47NEWS"
+        },
+        {
             "date": "2020/08/26 08:21",
             "url": "https://www3.nhk.or.jp/news/html/20200826/k10012584951000.html",
             "text": "石川県 新型コロナ 新たに7人感染確認 県内計592人に - NHK NEWS WEB"
@@ -24,11 +29,6 @@
             "date": "2020/08/24 13:10",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1150455",
             "text": "8/24コロナ速報_石川県で男女7人感染、加賀市の40代男性も 金沢大学は看護師の感染発表 - 福井新聞"
-        },
-        {
-            "date": "2020/08/24 08:28",
-            "url": "https://www3.nhk.or.jp/news/html/20200824/k10012581331000.html",
-            "text": "石川県 新型コロナ 新たに7人の感染確認 県内計573人に - NHK NEWS WEB"
         }
     ]
 }
