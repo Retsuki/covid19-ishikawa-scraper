@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/08/26 08:21",
+            "url": "https://www3.nhk.or.jp/news/html/20200826/k10012584951000.html",
+            "text": "石川県 新型コロナ 新たに7人感染確認 県内計592人に - NHK NEWS WEB"
+        },
+        {
             "date": "2020/08/25 23:10",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1151197",
             "text": "8/25コロナ速報_石川県で11人感染 高校生や加賀市の認定こども園通う0歳児も - 福井新聞"
@@ -24,11 +29,6 @@
             "date": "2020/08/24 08:28",
             "url": "https://www3.nhk.or.jp/news/html/20200824/k10012581331000.html",
             "text": "石川県 新型コロナ 新たに7人の感染確認 県内計573人に - NHK NEWS WEB"
-        },
-        {
-            "date": "2020/08/23 23:45",
-            "url": "https://www.fukuishimbun.co.jp/articles/-/1149902",
-            "text": "8/23コロナ速報_石川県で1人死亡16人感染確認、うちクラスター発生の病院で看護師1人と入院患者7人感染 - 福井新聞"
         }
     ]
 }
