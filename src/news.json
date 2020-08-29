@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/08/29 12:58",
+            "url": "https://news.yahoo.co.jp/articles/15e6a8838b3eabec63621debcf11989766075ef1",
+            "text": "石川・新型コロナに新たに男女7人感染（MRO北陸放送） - Yahoo!ニュース - Yahoo!ニュース"
+        },
+        {
             "date": "2020/08/28 08:21",
             "url": "https://www3.nhk.or.jp/news/html/20200828/k10012588981000.html?utm_int=news-new_contents_latest_002",
             "text": "石川県 新型コロナ 新たに8人感染確認 県内計613人に - NHK NEWS WEB"
@@ -24,11 +29,6 @@
             "date": "2020/08/25 23:10",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1151197",
             "text": "8/25コロナ速報_石川県で11人感染 高校生や加賀市の認定こども園通う0歳児も - 福井新聞"
-        },
-        {
-            "date": "2020/08/24 13:10",
-            "url": "https://www.fukuishimbun.co.jp/articles/-/1150455",
-            "text": "8/24コロナ速報_石川県で男女7人感染、加賀市の40代男性も 金沢大学は看護師の感染発表 - 福井新聞"
         }
     ]
 }
