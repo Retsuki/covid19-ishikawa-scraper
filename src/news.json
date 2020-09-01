@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/09/01 09:27",
+            "url": "https://www.fukuishimbun.co.jp/articles/-/1156042",
+            "text": "9/1コロナ速報_石川県で過去最多27人感染 - 福井新聞"
+        },
+        {
             "date": "2020/09/01 07:22",
             "url": "https://www.oita-press.co.jp/1002000000/2020/08/31/NP2020083101002072",
             "text": "石川県で２人の新型コロナ感染を確認 - 大分合同新聞"
@@ -8,7 +13,7 @@
         {
             "date": "2020/09/01 00:59",
             "url": "https://www.chunichi.co.jp/article/113377",
-            "text": "金沢医療センター ４人感染 石川県のコロナ病床拠点 - 中日新聞"
+            "text": "金沢医療センター ４人感染 石川県のコロナ病床拠点 - chunichi.co.jp"
         },
         {
             "date": "2020/08/31 10:00",
@@ -24,11 +29,6 @@
             "date": "2020/08/30 00:25",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1154163",
             "text": "8/29コロナ速報_石川県で7人感染 内灘町の高校教員や金沢市の自営業男性も - 福井新聞"
-        },
-        {
-            "date": "2020/08/28 08:21",
-            "url": "https://www3.nhk.or.jp/news/html/20200828/k10012588981000.html?utm_int=news-new_contents_latest_002",
-            "text": "石川県 新型コロナ 新たに8人感染確認 県内計613人に - NHK NEWS WEB"
         }
     ]
 }
