@@ -1,6 +1,11 @@
 {
     "newsItems": [
         {
+            "date": "2020/09/02 11:59",
+            "url": "https://news.yahoo.co.jp/articles/df4bef9c0d8c3bc005aa7c4a79fdc005f30dd855",
+            "text": "石川県内の感染者は13人 死者1人（MRO北陸放送） - Yahoo!ニュース"
+        },
+        {
             "date": "2020/09/02 09:41",
             "url": "https://www3.nhk.or.jp/news/html/20200902/k10012597151000.html",
             "text": "コロナ病床ひっ迫 沖縄と石川 最も深刻「ステージ4」 - NHK NEWS WEB"
@@ -19,11 +24,6 @@
             "date": "2020/09/01 10:00",
             "url": "https://www.fukuishimbun.co.jp/articles/-/1156042",
             "text": "9/1コロナ速報_石川県で過去最多27人感染 - 福井新聞"
-        },
-        {
-            "date": "2020/09/01 09:38",
-            "url": "https://news.yahoo.co.jp/articles/63daf8c122a152a30979a320407cec0fbde57744",
-            "text": "石川で最多２７人コロナ感染 金沢医療センターでクラスター（北國新聞社） - Yahoo!ニュース"
         },
         {
             "date": "2020/08/31 10:00",
