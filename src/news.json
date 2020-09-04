@@ -1,19 +1,19 @@
 {
     "newsItems": [
         {
+            "date": "2020/09/04 08:39",
+            "url": "https://www.fukuishimbun.co.jp/articles/-/1158258",
+            "text": "9/4コロナ速報_石川県で3人死亡、4人感染確認 - 福井新聞"
+        },
+        {
+            "date": "2020/09/04 08:38",
+            "url": "https://www3.nhk.or.jp/news/html/20200904/k10012600801000.html",
+            "text": "石川県 新型コロナ 3人死亡4人感染 県内計681人感染 37人死亡 - NHK NEWS WEB"
+        },
+        {
             "date": "2020/09/03 08:26",
             "url": "https://www3.nhk.or.jp/news/html/20200903/k10012598701000.html",
             "text": "石川 新型コロナ 新たに11人の感染確認 県内計677人に - NHK NEWS WEB"
-        },
-        {
-            "date": "2020/09/02 11:59",
-            "url": "https://news.yahoo.co.jp/articles/df4bef9c0d8c3bc005aa7c4a79fdc005f30dd855",
-            "text": "石川県内の感染者は13人 死者1人（MRO北陸放送） - Yahoo!ニュース"
-        },
-        {
-            "date": "2020/09/02 09:41",
-            "url": "https://www3.nhk.or.jp/news/html/20200902/k10012597151000.html",
-            "text": "コロナ病床ひっ迫 沖縄と石川 最も深刻「ステージ4」 - NHK NEWS WEB"
         },
         {
             "date": "2020/09/02 09:02",
